@@ -39,12 +39,12 @@ To include your own dataset, change preprocessing function in fin_train_value_st
 If you used the continuous casual upper bounded state value functions for your experiments, consider citing the following paper:
 
 <pre>
-@misc{juliani2026confoundingrobustcontinuouscontrol,
-      title={Confounding Robust Continuous Control via Automatic Reward Shaping}, 
-      author={Mateo Juliani and Mingxuan Li and Elias Bareinboim},
-      year={2026},
-      eprint={2602.10305},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2602.10305}, 
+@inproceedings{
+ juliani2026confounding,
+ title={Confounding Robust Continuous Control via Automatic Reward Shaping},
+ author={Mateo Juliani and Mingxuan Li and Elias Bareinboim},
+ booktitle={The 25th International Conference on Autonomous Agents and Multi-Agent Systems},
+ year={2026},
+ url={https://openreview.net/forum?id=ZFtjCJqEQf}
 }
+
